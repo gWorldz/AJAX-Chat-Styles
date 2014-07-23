@@ -1,7 +1,7 @@
 AJAX Chat Styles
 ================
 
-This repository is a simple collection of styles created and/or modified by myself and/or the AJAX Chat community. 
+This repository is a simple collection of styles created and/or modified by the AJAX Chat community. 
 
 The layout of AJAX Chat (https://github.com/Frug/AJAX-Chat) developed by Frug (https://github.com/Frug) is fully customizable by using CSS (Cascading Style Sheets).
 
