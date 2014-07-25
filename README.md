@@ -8,7 +8,7 @@ The layout of AJAX Chat (https://github.com/Frug/AJAX-Chat) developed by Frug (h
 Included Styles
 ---------------
 
-![Minimal Preview](../../Minimal/Minimal.jpg)
+![Minimal Preview](https://github.com/gWorldz/AJAX-Chat-Styles/raw/master/Minimal/preview.jpg)
 
 Installing Styles
 -----------------
