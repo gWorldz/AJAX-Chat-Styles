@@ -43,4 +43,4 @@ Changelog
 
 Initialising
 0.0.1
-- Added MInimal by Bomdia (https://github.com/bomdia)
+- Added MInimal by [Bomdia](https://github.com/bomdia)
