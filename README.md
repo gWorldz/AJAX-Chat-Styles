@@ -5,6 +5,11 @@ This repository is a simple collection of styles created and/or modified by the 
 
 The layout of AJAX Chat (https://github.com/Frug/AJAX-Chat) developed by Frug (https://github.com/Frug) is fully customizable by using CSS (Cascading Style Sheets).
 
+Included Styles
+---------------
+
+[[ http://i58.tinypic.com/2cnfsy1.jpg  | width = 200px ]]
+
 Installing Styles
 -----------------
 
@@ -32,3 +37,10 @@ To add your own style, do the following:
 $config['styleAvailable'] = array('mystyle','beige','black','grey');
 // Default style:
 $config['styleDefault'] = 'mystyle';</pre>
+
+Changelog
+---------
+
+Initialising
+0.0.1
+- Added MInimal by Bomdia (https://github.com/bomdia)
