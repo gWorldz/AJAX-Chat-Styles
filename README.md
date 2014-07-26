@@ -53,6 +53,8 @@ If you are interested in contributing your style to this [AJAX Chat Styles](http
 4. Push your commit.
 5. Create a Pull Request.
 
+*NOTE:* Images should display their license in the file that calls them and must be a license allowing distribution. Contributors are responsible for verifying the images license and displaying a link as proof of verification. It is recommended that images licensed as creative commons, public domain or images created by the contributor be used.
+
 Example Style Structure
 -----------------------
 
@@ -69,7 +71,5 @@ Changelog
 
 0.0.1 Initialising
 - Added MInimal by [Bomdia](https://github.com/bomdia)
-
-0.0.2
 - Added example by [gWorldz](https://github.com/gWorldz)
 - Added Lost In Space by [gWorldz](https://github.com/gWorldz)
