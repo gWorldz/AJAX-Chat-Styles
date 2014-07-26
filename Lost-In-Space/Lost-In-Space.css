@@ -1,0 +1,127 @@
+/*
+ * @package AJAX_Chat
+ * @author Doc gWorldz
+ * 
+ * Background: Lost In Space by Justin Barbette
+ * http://justinbarbette.deviantart.com/art/Lost-in-Space-317464141
+ */
+@import url('global.css');
+@import url('fonts.css');
+@import url('print.css');
+@import url('custom.css');
+
+/* Buttons */
+#content #bbCodeContainer input, #content #logoutButton, #content #submitButton, #loginForm #loginButton {
+	background-color:#f6f6f6;
+	color:#333333;
+	border: 1px solid #787878;
+}
+#content select, #loginForm select, #loginForm input, #content textarea {
+	color:#333333;
+	border: 1px solid #787878;
+}
+
+/* Status Icon */
+#content #statusIconContainer {
+	background: url('../img/loading-sprite.png') no-repeat 0px 0px; 
+}
+#content #statusIconContainer.waiting {
+	background-position: 0px -22px;
+}
+#content #statusIconContainer.retrying {
+	background-position: 0px -44px;
+}
+
+/* Other Theme Elements */
+.ajax-chat {
+	background:#020609 url('Lost-In-Space_images/bg-1600.jpg') 50% 0 no-repeat;
+	background-size:cover;
+	color:#999;
+}
+.ajax-chat h1 {
+	color:#f6f6f6;
+}
+.ajax-chat a {
+	color:#999;
+}
+#loginContent #errorContainer {
+	color:red;
+}
+#content input, #content select, #content textarea {
+	background-color:#FFF;
+	color:#000;
+}
+#content #mainPanelContainer,
+#content #onlineListContainer .userMenu a {
+	color:#000;
+}
+#content #chatList, #content #onlineListContainer, #content #helpContainer, #content #settingsContainer {
+	border-color:#ADADAD;
+	background: transparent url('Lost-In-Space_images/trans-75.png') 0 0 repeat;
+}
+.ajax-chat .popup {
+	background-color:#ADADAD;
+	border:1px solid gray;
+}
+#content #colorCodesContainer a {
+	border-color:black;
+}
+#content #optionsContainer input {
+	background-color:transparent;
+}
+#content .rowEven, #helpList dl:nth-child(even), #settingsList dl:nth-child(even) {
+	background: transparent url('Lost-In-Space_images/trans-75.png') 0 0 repeat;
+}
+#content .rowOdd, #helpList dl:nth-child(odd), #settingsList dl:nth-child(odd) {
+	background: transparent url('Lost-In-Space_images/trans-85.png') 0 0 repeat;
+}
+#content #chatList .rowOdd.private {
+	background-color:#F8D0D0;
+}
+#content #chatList .rowEven.private {
+	background-color:#F8D9D0;
+}
+#content .guest {
+	color:gray;
+}
+#content .user {
+	color:#000;
+}
+#content .customUser {
+	color:#003d8e;
+}
+#content .moderator {
+	font-weight:bold;
+	color:#0000FF;
+}
+#content .admin {
+	font-style:italic;
+	font-weight:bold;
+	color:#FF0000;
+}
+#content .chatBot {
+	font-weight:bold;
+	color:#476C8E;
+}
+#content #chatList .chatBotErrorMessage {
+	color:red;
+}
+#content #chatList a {
+	color:#476C8E;
+}
+#content #chatList .deleteSelected {
+	border-color:red;
+}
+#content #onlineListContainer h3, #content #helpContainer h3, #content #settingsContainer h3 {
+	background-color:#999;
+	color:#FFF;
+}
+
+@media (max-width: 700px) {
+	.ajax-chat {
+		background:#020609 url('Lost-In-Space_images/bg-800.jpg') 50% 0 no-repeat;
+	}
+	#content #emoticonsContainer {
+		border: 1px solid #ADADAD;
+	}
+}

@@ -8,7 +8,7 @@ The layout of AJAX Chat (https://github.com/Frug/AJAX-Chat) developed by Frug (h
 Included Styles
 ---------------
 
-![Minimal Preview](https://github.com/gWorldz/AJAX-Chat-Styles/raw/master/Minimal/preview.jpg)
+![Minimal Preview](https://github.com/gWorldz/AJAX-Chat-Styles/raw/master/Minimal/preview.jpg) ![Lost In Space Preview](https://github.com/gWorldz/AJAX-Chat-Styles/raw/master/Lost-In-Space/preview.jpg)
 
 Installing Styles
 -----------------
@@ -44,3 +44,6 @@ Changelog
 Initialising
 0.0.1
 - Added MInimal by [Bomdia](https://github.com/bomdia)
+
+0.0.2
+- Added Lost In Space by [gWorldz](https://github.com/gWorldz)
