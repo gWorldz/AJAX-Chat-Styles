@@ -56,7 +56,7 @@ If you are interested in contributing your style to this [AJAX Chat Styles](http
 Example Style Structure
 -----------------------
 
-| EXAMPLE FILES  | REQ. | DESCRIPTION |
+| FILES          | REQ. | DESCRIPTION |
 | -------------- | ---- | ----------- |
 | example.css    | Yes  | This is where we import required AJAX Chat styles and add our custom CSS styles. |
 | example.jpg    | No   | This 800x640 screenshot uses the name of our style and serves as a large preview. |
