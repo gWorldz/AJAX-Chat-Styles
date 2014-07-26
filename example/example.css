@@ -1,0 +1,92 @@
+/*
+ * @package AJAX_Chat
+ * @author Doc gWorldz
+ */
+@import url('global.css');
+@import url('fonts.css');
+@import url('print.css');
+@import url('custom.css');
+
+#content input, select, #content textarea, #loginButton { 
+}
+#loginButton{
+}
+#content textarea {
+}
+.ajax-chat {
+}
+.ajax-chat a, .ajax-chat a:visited, .ajax-chat h1{
+}
+input, select {
+}
+#loginContent #errorContainer {
+}
+
+#content textarea {
+}
+#content #chatList{
+}
+#content #chatList, #content #onlineListContainer, #content #helpContainer, #content #settingsContainer{
+}
+#content #colorCodesContainer a:first-child{
+}
+#content #colorCodesContainer a {
+}
+#content #colorCodesContainer {
+}
+#content #onlineListContainer, #content #helpContainer, #content #settingsContainer {
+}
+#content #onlineListContainer #onlineList ul {
+}
+#content #emoticonsContainer {
+}
+#content #bbCodeContainer {
+}
+
+/* Status Icon */
+#content #statusIconContainer {
+	background: url('../img/loading-sprite.png') no-repeat 0px 0px; 
+}
+#content #statusIconContainer.waiting {
+	background-position: 0px -22px;
+}
+#content #statusIconContainer.retrying {
+	background-position: 0px -44px;
+}
+
+#content #bbCodeContainer input, #content #logoutButton, #content #submitButton, #loginButton {
+}
+#content #bbCodeContainer input:hover, #content #logoutButton:hover, #content #submitButton:hover, #loginButton:hover {
+}
+#content #optionsContainer input.button {
+}
+#content #optionsContainer input {
+}
+.ajax-chat .popup {
+}
+#content .rowEven, #helpList dl:nth-child(even), #settingsList dl:nth-child(even) {
+}
+#content .rowOdd, #helpList dl:nth-child(odd), #settingsList dl:nth-child(odd) {
+}
+#content #chatList .rowOdd.private {
+}
+#content #chatList .rowEven.private {
+}
+#content .guest {
+}
+#content .user {
+}
+#content .customUser {
+}
+#content .moderator {
+}
+#content .admin {
+}
+#content .chatBot {
+}
+#content #chatList .chatBotErrorMessage {
+}
+#content #chatList .deleteSelected {
+}
+#content #onlineListContainer h3, #content #helpContainer h3, #content #settingsContainer h3 {
+}

@@ -44,6 +44,13 @@
 .ajax-chat a {
 	color:#999;
 }
+#loginContent {
+	margin: 5% auto 0;
+	padding: 20px;
+	border: 2px solid #999;
+	background: transparent url('Lost-In-Space_images/dark-75.png') 0 0 repeat;
+	border-radius: 1em;
+}
 #loginContent #errorContainer {
 	color:red;
 }
@@ -70,10 +77,10 @@
 	background-color:transparent;
 }
 #content .rowEven, #helpList dl:nth-child(even), #settingsList dl:nth-child(even) {
-	background: transparent url('Lost-In-Space_images/trans-75.png') 0 0 repeat;
+	background: transparent url('Lost-In-Space_images/trans-85.png') 0 0 repeat;
 }
 #content .rowOdd, #helpList dl:nth-child(odd), #settingsList dl:nth-child(odd) {
-	background: transparent url('Lost-In-Space_images/trans-85.png') 0 0 repeat;
+	background: transparent url('Lost-In-Space_images/trans-75.png') 0 0 repeat;
 }
 #content #chatList .rowOdd.private {
 	background-color:#F8D0D0;
