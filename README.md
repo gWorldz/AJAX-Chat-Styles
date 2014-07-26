@@ -62,7 +62,7 @@ Example Style Structure
 | example.jpg    | No   | This 800x640 screenshot uses the name of our style and serves as a large preview. |
 | license.txt    | No   | The license for the style, if omitted the Modified MIT license included with [AJAX Chat Styles](https://github.com/gWorldz/AJAX-Chat-Styles) will be used. |
 | preview.jpg    | No   | This 200x160 preview is used for the [AJAX Chat Styles](https://github.com/gWorldz/AJAX-Chat-Styles) README.md |
-| example_images | No   | This folder uses the name of our style and is for images and/or other files required by the theme |
+| example_images | No   | This folder uses the name of our style followed by "_images" and is for images and/or other files required by the theme |
 
 Changelog
 ---------
