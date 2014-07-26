@@ -44,8 +44,7 @@ $config['styleDefault'] = 'mystyle';</pre>
 Changelog
 ---------
 
-Initialising
-0.0.1
+0.0.1 Initialising
 - Added MInimal by [Bomdia](https://github.com/bomdia)
 
 0.0.2
