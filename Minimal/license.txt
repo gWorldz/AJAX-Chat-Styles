@@ -20,9 +20,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-The above license does not apply to files included in the Ajax Chat Styles project
-which fall under other licenses. Such files are provided with their own
-license text included beside or within the files themselves.
-The presence of this modified MIT license in Ajax Chat Styles does NOT supersede 
-the licenses applying to those files. You many NOT redistribute this project
-or included files in a way that conflicts with their respective licenses.
+The above license does not apply to files included in the Ajax Chat Styles
+project which fall under other licenses. Such files are provided with their own
+license text included beside or within the files themselves. The presence of
+this modified MIT license in Ajax Chat Styles does NOT supersede the licenses
+applying to those files. You may NOT redistribute this project or included files
+in a way that conflicts with their respective licenses.
