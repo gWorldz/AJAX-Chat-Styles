@@ -1,1 +1,2 @@
-Include your license here or it will be covered by the Modified MIT license with the [AJAX Chat Styles](https://github.com/gWorldz/AJAX-Chat-Styles) project.
+Include your license here or it will be covered by the Modified MIT license with
+the [AJAX Chat Styles] (https://github.com/gWorldz/AJAX-Chat-Styles) project.
